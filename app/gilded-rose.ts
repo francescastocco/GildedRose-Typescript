@@ -63,7 +63,6 @@ export class GildedRose {
                 }
             }
         }
-
         return this.items;
     }
 }
